@@ -1,0 +1,7 @@
+API Key - AIzaSyDd3dFWwhWGV0e0ZGdDtepJ9AnNy7bRdvs
+
+The submitted story belongs to colab notebooks 
+
+colab link - https://colab.research.google.com/drive/1gZH93atGCGzJ-wMo23SBusopem2JrLsn?usp=sharing
+
+The system produces different stories when it executes
